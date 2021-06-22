@@ -1,4 +1,4 @@
-# AI coolage tasks techno
+# AI college tasks techno
 Genetic algorithm with pure python
 BAM network with pure python
 CFG with pure python
